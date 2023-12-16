@@ -1,0 +1,65 @@
+.title {
+  text-align: center;
+  color: darkblue;
+  font-weight: bold;
+  font-size: larger;
+}
+.title h2 {
+  margin: 20px;
+}
+
+.container-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+.login-image img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+}
+
+.login-content {
+  padding: 30px;
+  margin: 20px;
+}
+
+.form-title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.login-label {
+  display: block;
+  font-weight: 500;
+  color: #666;
+}
+
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button[type="login"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button[type="login"]:hover {
+  background-color: #0471e6;
+}

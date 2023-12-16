@@ -1,0 +1,62 @@
+.title-reg {
+  margin: 0;
+  margin-bottom: 50px;
+  padding: 0;
+  color: darkblue;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.registration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.registration-content {
+  width: 400px;
+}
+
+.registration-title {
+  text-align: center;
+}
+
+.registration-row {
+  margin-bottom: 20px;
+}
+
+.registration-input-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.registration-input-group label {
+  margin-bottom: 5px;
+}
+
+.registration-input-group input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.registration-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.registration-image-container {
+  width: 400px;
+  margin-left: 20px;
+}
+
+.registration-image-container img {
+  width: 100%;
+  height: auto;
+  margin-left: 20px;
+}

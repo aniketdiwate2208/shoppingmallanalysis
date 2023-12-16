@@ -1,0 +1,150 @@
+.Home {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image1 {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+  max-width: 500px;
+  margin: 25px;
+  color: darkblue;
+}
+.image1 img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+.image2 {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+  max-width: 500px;
+  margin: 25px;
+}
+.image2 img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.instruction-component {
+  color: darkblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 25px auto;
+  max-width: 450px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.graph-component {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.graphs {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+  margin: 25px;
+  max-width: 50%;
+}
+
+.pie-chart,
+.scattered-graph {
+  flex-basis: 100%;
+  max-width: 850px;
+  /* text-align: center; */
+  margin-bottom: 10px;
+}
+
+.pie-chart img,
+.scattered-graph img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.file-uploader {
+  margin: 20px auto;
+  color: darkblue;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.file-input {
+  margin-right: 10px;
+}
+
+.upload-button {
+  padding: 10px 20px;
+  background-color: rgb(9, 9, 200);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.upload-button:hover {
+  background-color: rgb(6, 6, 141);
+}
+
+.pie-chart {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.pie-chart img {
+  max-width: 100%;
+  height: auto;
+}
+
+.Result {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 25px;
+  max-width: 50%;
+  padding: 20px;
+  border-radius: 5px;
+}
+.Response {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  width: 600px;
+}
+
+.Response h1 {
+  margin: 10px;
+}
+
+.cluster {
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 500px;
+  margin: 25px;
+  width: 100%;
+  overflow-x: auto;
+}
+.cluster table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.cluster h4 {
+  text-align: justify;
+}
