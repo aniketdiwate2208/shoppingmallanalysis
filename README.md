@@ -46,4 +46,4 @@ npm start
 
 ## Project Screenshot
 
-![Registration (6)](https://github.com/aniketdiwate22/Lovelace/assets/131389916/6f749186-c25b-49c5-9935-49788aeecd50)
+![Registration](https://github.com/aniketdiwate2208/shoppingmallanalysis/blob/main/src/assets/images/regist.jpg)
