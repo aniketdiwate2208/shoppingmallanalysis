@@ -47,7 +47,7 @@ npm start
 
 ## Project Screenshot
 
-
+*Caption: Registration Page.*
 ![Registration Page](https://github.com/aniketdiwate2208/shoppingmallanalysis/assets/89931422/b80fc398-2f20-4803-8d68-1113a2536213)
 ![Login Page](https://github.com/aniketdiwate2208/shoppingmallanalysis/assets/89931422/b1453866-8abb-4c00-91f7-70eda90d36ff)
 ![Home Page](https://github.com/aniketdiwate2208/shoppingmallanalysis/assets/89931422/0d123450-5a52-408f-9dfc-a27a73e57506)
